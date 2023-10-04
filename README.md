@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Mohamed Shams from Egypt<br><br>- 🔭 I’m Senior Student<br>- 📚 I'm currently learning Embedded Systems</p>
+<p align="left">I'm Mohamed Shams<br><br>- 🔭 I’m Senior Student<br>- 📚 I'm currently learning Embedded Systems</p>
 
 ###
 

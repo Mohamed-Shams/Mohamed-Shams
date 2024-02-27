@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shams</h1>
 <h3 align="center">🔭 Aspiring Electrical Engineer | Innovator in IIOT and Industrial Automation</h3>
 
-<p align="left"> <a href="https://twitter.com/mashams_" target="blank"><img src="https://img.shields.io/twitter/follow/mashams_?logo=twitter&style=for-the-badge" alt="mashams_" /></a> </p>
-
 - 🔭 Volunteering - IOT Team Leader **Menoufia Racing Team (MRT) - 2022/2024**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mashams/](https://www.linkedin.com/in/mashams/)

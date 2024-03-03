@@ -7,10 +7,11 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20Electrical%20Engineer;Innovator%20in%20IIOT%20and%20Industrial%20Automation;Menoufia%20Racing%20Team%20IOT%20Team%20Leader%20-%202022/2024;Always%20learning%20new%20things;In%20Allah%20I%20Trust&font=Fira%20Code&center=true&width=440&height=45&color=0b34ba&vCenter=true&size=22"></a>
-</p>   
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20Electrical%20Engineer;Innovator%20in%20IIOT%20and%20Industrial%20Automation;Always%20learning%20new%20things;In%20Allah%20I%20Trust&font=Fira%20Code&center=true&width=600&height=65&color=0b34ba&vCenter=true&size=22"></a>
+</p>
 
-- 🔭 Volunteering - IOT Team Leader **Menoufia Racing Team (MRT) - 2022/2024**
+
+- 🔭 Volunteering - IOT Team Leader **Menofia Racing Team (MRT) - 2022/2024**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mashams/](https://www.linkedin.com/in/mashams/)
 

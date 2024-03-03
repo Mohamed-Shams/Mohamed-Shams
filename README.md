@@ -25,4 +25,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-shams&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-shams&theme=dark&size=small" alt="GitHub streaks" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-shams&theme=dark&size=small" alt="GitHub streaks" />

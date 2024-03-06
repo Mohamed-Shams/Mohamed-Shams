@@ -1,5 +1,3 @@
-<img width="250" align="right" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-max-1mb.gif">
-
 <h2 align="center">
   Hi, I'm Mohamed Shams
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">

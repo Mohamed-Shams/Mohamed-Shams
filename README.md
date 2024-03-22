@@ -20,10 +20,10 @@
 <a href="https://linkedin.com/in/mashams" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mashams" height="30" width="40" /></a>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c)](https://github.com/Mohamed-Shams)
+[![My Skills](https://skillicons.dev/icons?i=c,python)](https://github.com/Mohamed-Shams)
 
 ### Profile Status
 ---
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-shams&theme=dark&size=small" alt="GitHub streaks" /> <a href="https://github.com/Mohamed-Shams"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Shams&theme=github_dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Mohamed-Shams" /></a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-shams&theme=dark&size=small" alt="GitHub streaks" width="400" height="150" /> <a href="https://github.com/Mohamed-Shams"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Shams&theme=github_dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Mohamed-Shams" /></a>
 
 

@@ -24,6 +24,12 @@
 
 ### Profile Status
 ---
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-shams&theme=dark&size=small" alt="GitHub streaks" width="400" height="150" /> <a href="https://github.com/Mohamed-Shams"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Shams&theme=github_dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Mohamed-Shams" /></a>
+<div style="display: flex; align-items: center;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-shams&theme=dark&size=small" alt="GitHub streaks" /> 
+    <a href="https://github.com/Mohamed-Shams">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Shams&theme=github_dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Mohamed-Shams" />
+    </a>
+</div>
+
 
 

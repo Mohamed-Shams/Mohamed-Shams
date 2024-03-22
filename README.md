@@ -20,8 +20,8 @@
 <a href="https://linkedin.com/in/mashams" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mashams" height="30" width="40" /></a>
 
 ### Languages and Tools:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=c)](https://github.com/Mohamed-Shams)
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-shams&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-shams&theme=dark&size=small" alt="GitHub streaks" />

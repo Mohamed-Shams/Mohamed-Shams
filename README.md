@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 [<img src="https://nodered.org/about/resources/media/node-red-icon.svg" width="50"/>](https://nodered.org/)
-[![My Skills](https://skillicons.dev/icons?i=c,python,github)](https://github.com/Mohamed-Shams)
+[![My Skills](https://skillicons.dev/icons?i=c,python,github,mysql)](https://github.com/Mohamed-Shams)
 
 ### Profile Status
 ---

@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/mashams" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mashams" height="30" width="40" /></a>
 
 ### Languages and Tools:
+[<img src="[https://nodered.org/about/resources/media/node-red-icon.svg](https://electronicdrives.com/home/wp-content/uploads/2021/12/Electronic-Drives-and-Controls-Ignition-Certified.png)" width="50"/>](https://inductiveautomation.com/)
 [<img src="https://nodered.org/about/resources/media/node-red-icon.svg" width="50"/>](https://nodered.org/)
 [![My Skills](https://skillicons.dev/icons?i=c,python,github,mysql)](https://github.com/Mohamed-Shams)
 

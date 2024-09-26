@@ -16,6 +16,7 @@
 - 📫 How to reach me **Mohamed.Ah.Shams@gmail.com**
 
 ### Connect with me:
+<a href="https://www.youtube.com/@MAShams1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mashams1" height="30" width="40" /></a>
 <a href="https://twitter.com/mashams_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mashams_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mashams" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mashams" height="30" width="40" /></a>
 

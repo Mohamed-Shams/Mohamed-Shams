@@ -3,31 +3,79 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Automation%20Engineer;IIOT%20and%20Industrial%20Automation;Always%20learning%20new%20things;In%20Allah%20I%20Trust&font=Fira%20Code&center=true&width=600&height=65&color=58a6ff&vCenter=true&size=22"></a>
+  <strong>Systems Engineer | SCADA & Industrial IoT | Ignition Certified</strong>
 </p>
 
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Systems%20Engineer;SCADA%20%26%20Ignition%20Specialist;Industrial%20IoT%20%26%20Smart%20Infrastructure;Data-Driven%20Industrial%20Solutions&font=Fira%20Code&center=true&width=700&height=65&color=58a6ff&vCenter=true&size=22">
+</a>
+</p>
 
-- 🔭 Volunteering - IOT Team Leader **Menofia Racing Team (MRT) - 2022/2024**
+---
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mashams/](https://www.linkedin.com/in/mashams/)
+## 👨‍💼 Professional Summary
+Systems Engineer with hands-on experience delivering **large-scale SCADA and Industrial IoT platforms** for government and industrial clients.  
+Strong background in **Ignition SCADA**, **distributed system architectures**, **industrial communication protocols**, and **database-driven applications**.
 
-- 📫 How to reach me **Mohamed.Ah.Shams@gmail.com**
+Experienced across the full project lifecycle:
+**system design, deployment, integration, commissioning, and operator enablement**, with growing expertise in **industrial analytics and AI-enabled solutions**.
 
-### Connect with me:
-<a href="https://www.youtube.com/@MAShams1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mashams1" height="30" width="40" /></a>
-<a href="https://twitter.com/mashams_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mashams_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mashams" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mashams" height="30" width="40" /></a>
+---
 
-### Languages and Tools:
+## 🏗️ Current Role
+- **Systems Engineer — Giza Systems (2024 – Present)**
+
+---
+
+## 🚀 Key Expertise
+- **SCADA & HMI**: Ignition (Perspective, Gateway Architecture), WinCC  
+- **Industrial IoT**: Sensor-to-cloud monitoring, asset tracking platforms  
+- **System Architecture**: Distributed & redundant multi-gateway systems  
+- **Databases**: Oracle DB, MS SQL Server, MySQL, PostgreSQL  
+- **Time-Series & Historians**: InfluxDB  
+- **Protocols & Integration**: OPC-UA, MQTT, REST APIs  
+- **Programming**: Python, JavaScript, HTML, CSS  
+- **Industrial Analytics & AI**: KPI dashboards, AI/ML foundations, Dataiku, AWS AI  
+- **DevOps & Automation**: Docker, Git, n8n  
+
+---
+
+## 🧾 Certifications
+- 🏅 **Ignition Core Certified** – Inductive Automation  
+- 🏅 **Dataiku ML Practitioner & Designer (Core & Advanced)**  
+- 🏅 **Docker & Kubernetes Foundations**  
+- 🏅 **WinCC Unified Essentials – Siemens**  
+
+---
+
+## 🌐 Connect With Me
+<a href="https://www.linkedin.com/in/mashams/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://www.youtube.com/@MAShams1" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
+</a>
+<a href="https://twitter.com/mashams_" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+</a>
+
+📫 **Email:** Mohamed.Ah.Shams@gmail.com  
+
+---
+
+## 🛠️ Languages & Tools
 [<img src="https://electronicdrives.com/home/wp-content/uploads/2021/12/Electronic-Drives-and-Controls-Ignition-Certified.png" width="50"/>](https://inductiveautomation.com/)
 [<img src="https://nodered.org/about/resources/media/node-red-icon.svg" width="50"/>](https://nodered.org/)
-[![My Skills](https://skillicons.dev/icons?i=c,python,github,mysql)](https://github.com/Mohamed-Shams)
+[![My Skills](https://skillicons.dev/icons?i=python,c,javascript,html,css,mysql,postgresql,github,docker)](https://github.com/Mohamed-Shams)
 
-### Profile Status
 ---
-<a href="https://github.com/Mohamed-Shams"><img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Shams&theme=github_dark&hide_border=true&show_icons=true&locale=en" alt="Mohamed-Shams" /></a>
-<a href="https://github.com/Mohamed-Shams"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Shams&theme=github_dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Mohamed-Shams" /></a>
 
-
+## 📊 GitHub Profile Stats
+<a href="https://github.com/Mohamed-Shams">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Shams&theme=github_dark&hide_border=true&show_icons=true" />
+</a>
+<a href="https://github.com/Mohamed-Shams">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Shams&theme=github_dark&hide_border=true&layout=compact" />
+</a>

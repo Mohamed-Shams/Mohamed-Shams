@@ -66,7 +66,7 @@ Experienced across the full project lifecycle:
 ---
 
 ## 🛠️ Languages & Tools
-[<img src="https://electronicdrives.com/home/wp-content/uploads/2021/12/Electronic-Drives-and-Controls-Ignition-Certified.png" width="50"/>](https://inductiveautomation.com/)
+[<img src="https://assets.inductiveautomation.com/static/images/logos/ignition-logotype-sans-ia.svg" width="50"/>](https://inductiveautomation.com/)
 [<img src="https://nodered.org/about/resources/media/node-red-icon.svg" width="50"/>](https://nodered.org/)
 [![My Skills](https://skillicons.dev/icons?i=python,c,javascript,html,css,mysql,postgresql,github,docker)](https://github.com/Mohamed-Shams)
 

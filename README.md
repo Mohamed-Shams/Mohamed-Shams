@@ -66,7 +66,7 @@ Experienced across the full project lifecycle:
 ---
 
 ## 🛠️ Languages & Tools
-[<img src="https://assets.inductiveautomation.com/static/images/logos/ignition-logotype-sans-ia.svg" width="50"/>](https://inductiveautomation.com/)
+[<img src="https://assets.inductiveautomation.com/static/images/logos/Logo-Ignition-Inverse%C2%AE@2x.d6698487831b.png" width="50"/>](https://inductiveautomation.com/)
 [<img src="https://nodered.org/about/resources/media/node-red-icon.svg" width="50"/>](https://nodered.org/)
 [![My Skills](https://skillicons.dev/icons?i=python,c,javascript,html,css,mysql,postgresql,github,docker)](https://github.com/Mohamed-Shams)
 

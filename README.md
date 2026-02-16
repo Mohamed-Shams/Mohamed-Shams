@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <strong>Systems Engineer | SCADA & Industrial IoT | Ignition Certified</strong>
+  <strong>Systems Engineer | SCADA & Industrial IoT | Ignition Certified | AWS Certified AI Practitioner </strong>
 </p>
 
 <p align="center">
